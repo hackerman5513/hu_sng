@@ -35,6 +35,8 @@
  while(s=f(s,a) != new_round);
   switch_blinds,goto 0;
 
+pattern [FSM [FSM] ] nested FSM.. implement
+
 
 
 
